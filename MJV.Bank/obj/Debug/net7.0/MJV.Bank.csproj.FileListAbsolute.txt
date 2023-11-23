@@ -1,0 +1,14 @@
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\obj\Debug\net7.0\MJV.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\obj\Debug\net7.0\MJV.Bank.AssemblyInfoInputs.cache
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\obj\Debug\net7.0\MJV.Bank.AssemblyInfo.cs
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\obj\Debug\net7.0\MJV.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\bin\Debug\net7.0\MJV.Bank.exe
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\bin\Debug\net7.0\MJV.Bank.deps.json
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\bin\Debug\net7.0\MJV.Bank.runtimeconfig.json
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\bin\Debug\net7.0\MJV.Bank.dll
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\bin\Debug\net7.0\MJV.Bank.pdb
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\obj\Debug\net7.0\MJV.Bank.dll
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\obj\Debug\net7.0\refint\MJV.Bank.dll
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\obj\Debug\net7.0\MJV.Bank.pdb
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\obj\Debug\net7.0\MJV.Bank.genruntimeconfig.cache
+C:\Users\Cliente\Labis\MJV.Bank\MJV.Bank\obj\Debug\net7.0\ref\MJV.Bank.dll
